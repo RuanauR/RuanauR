@@ -8,8 +8,8 @@ GD FORUMS: RuanauR
 Geometry dash: RuanauR
 ~~~~~~~~
 ~~~~~~~~
-2 demons (Both have secret ways, so I dont count them)
+3 demons (2 have secret ways, so I dont count them)
 200+ stars
-0 cp
 1000+ diamonds
+50+ user coins
 ~~~~~~~~
